@@ -1,2 +1,4 @@
 .project
 .settings/*
+shoppingcart-core/target/*
+shoppingcart-web/target/*
