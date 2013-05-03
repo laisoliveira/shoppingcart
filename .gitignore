@@ -2,3 +2,8 @@
 .settings/*
 shoppingcart-core/target/*
 shoppingcart-web/target/*
+shoppingcart-ui/target/*
+shoppingcart-webservices/target/*
+*/.classpath
+*/.project
+*/.settings/*
