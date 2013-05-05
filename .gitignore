@@ -1,9 +1,9 @@
-.project
-.settings/*
-shoppingcart-core/target/*
-shoppingcart-web/target/*
-shoppingcart-ui/target/*
-shoppingcart-webservices/target/*
+*/target/*
 */.classpath
 */.project
 */.settings/*
+*/*.iml
+.project
+.settings/*
+*.iml
+.idea/*
